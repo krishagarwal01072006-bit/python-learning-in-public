@@ -1,30 +1,23 @@
 # typing_tour.py
-# Day 1 project: Python variables change type on the fly.
-# Watch the gotchas live: // vs / and operator precedence.
+# Day 1 project: one variable, many types.
+# Python lets the same box hold anything — watch it change.
 
 value = 42
-print(f"value = {value!r:>12}, type = {type(value).__name__}")
+print(value)
+print(type(value))
 
-value = "hello, ai"  # same box, brand-new type — Python doesn't mind!
-print(f"value = {value!r:>12}, type = {type(value).__name__}")
+value = "hello ai"   # same variable, brand-new type. Python doesn't mind.
+print(value)
+print(type(value))
 
 value = 3.5
-print(f"value = {value!r:>12}, type = {type(value).__name__}")
+print(value)
+print(type(value))
 
-print()
-print("Gotcha 1 — / vs // :")
-print(f"  7 / 2  = {7 / 2}   (true division, always a float)")
-print(f"  7 // 2 = {7 // 2}     (floor division, rounds down)")
+print("--- gotcha 1: / vs // ---")
+print(7 / 2)    # true division, always a float: 3.5
+print(7 // 2)   # floor division, rounds down: 3
 
-print()
-print("Gotcha 2 — precedence (* and ** beat +):")
-print(f"  2 + 3 * 4   = {2 + 3 * 4}")
-print(f"  (2 + 3) * 4 = {(2 + 3) * 4}   (parentheses win)")
-
-print()
-print("Gotcha 3 — mixing types bites:")
-try:
-    result = "5" + 5
-except TypeError as err:
-    print(f'  "5" + 5 -> TypeError: {err}')
-    print("  Fix it: int('5') + 5 =", int("5") + 5)
+print("--- gotcha 2: precedence ---")
+print(2 + 3 * 4)      # * runs first: 14
+print((2 + 3) * 4)    # brackets win: 20
