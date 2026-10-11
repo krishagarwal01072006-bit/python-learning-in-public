@@ -16,5 +16,6 @@ Each folder holds the runnable mini-projects from one post in the series:
 | comprehensions | Day 15 — list/dict comprehensions, lambdas       |
 | exceptions     | Day 17 — try/except, tracebacks                  |
 | file-handling  | Day 19 — open(), with-statement, JSON            |
+| project-setup  | Day 21 — modules, pip, venv, requests            |
 
 Every script runs as-is: `python3 <script>.py`
