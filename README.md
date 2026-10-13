@@ -17,5 +17,6 @@ Each folder holds the runnable mini-projects from one post in the series:
 | exceptions     | Day 17 — try/except, tracebacks                  |
 | file-handling  | Day 19 — open(), with-statement, JSON            |
 | project-setup  | Day 21 — modules, pip, venv, requests            |
+| oop-basics     | Day 23 — class, __init__, self, methods, inheritance |
 
 Every script runs as-is: `python3 <script>.py`
