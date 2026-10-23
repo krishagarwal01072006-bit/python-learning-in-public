@@ -20,5 +20,6 @@ Each folder holds the runnable mini-projects from one post in the series:
 | oop-basics     | Day 23 — class, __init__, self, methods, inheritance |
 | capstone       | Day 25 — Delhi AQI Alert Bot (live API + Telegram alerts) |
 | numpy-1        | Day 29 — numpy arrays, indexing, slicing, shape/dtype    |
+| numpy-2        | Day 31 — vectorization, broadcasting, reshape, matplotlib primer |
 
 Every script runs as-is: `python3 <script>.py`
