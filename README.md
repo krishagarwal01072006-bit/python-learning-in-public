@@ -1,6 +1,19 @@
 # 🐍 Python — Learning in Public
 
-My Python learning journey, documented on LinkedIn every 2 days as I work toward getting into AI.
+Documenting my Python → AI engineer journey on LinkedIn, one post every 2 days.
+54 runnable scripts and counting — each one only uses concepts the series has
+covered so far, so every script is code I could plausibly write myself.
+
+📝 The series: https://www.linkedin.com/in/krishagarwal-ai/
+
+## Start here
+
+If you're skimming this repo: **`capstone/` is the one project that touches
+live systems** — a Delhi AQI alert bot hitting a real API and pinging Telegram
+when the air crosses a threshold. The rest are deliberately small exercises
+from the series, listed below.
+
+## The posts
 
 Each folder holds the runnable mini-projects from one post in the series:
 
