@@ -1,7 +1,7 @@
 # 🐍 Python — Learning in Public
 
 Documenting my Python → AI engineer journey on LinkedIn, one post every 2 days.
-54 runnable scripts and counting — each one only uses concepts the series has
+58 runnable scripts and counting — each one only uses concepts the series has
 covered so far, so every script is code I could plausibly write myself.
 
 📝 The series: https://www.linkedin.com/in/krishagarwal-ai/
