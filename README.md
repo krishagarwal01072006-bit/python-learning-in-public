@@ -36,5 +36,6 @@ Each folder holds the runnable mini-projects from one post in the series:
 | numpy-2        | Day 31 — vectorization, broadcasting, reshape, matplotlib primer |
 | pandas-1       | Day 33 — meet your dataset: read_csv, head/info/describe, loc/iloc |
 | pandas-2       | Day 35 — clean it, then ask it questions: dropna/fillna/drop_duplicates, groupby + agg, merge, df.plot() |
+| pandas-projects | Day 37 — projects day: Play Store cleaning + ratings analysis, NBA 2017 season analysis |
 
 Every script runs as-is: `python3 <script>.py`
