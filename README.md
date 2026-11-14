@@ -1,7 +1,7 @@
 # 🐍 Python — Learning in Public
 
 Documenting my Python → AI engineer journey on LinkedIn, one post every 2 days.
-67 runnable scripts and counting — each one only uses concepts the series has
+70 runnable scripts and counting — each one only uses concepts the series has
 covered so far, so every script is code I could plausibly write myself.
 
 📝 The series: https://www.linkedin.com/in/krishagarwal-ai/
@@ -38,5 +38,6 @@ Each folder holds the runnable mini-projects from one post in the series:
 | pandas-2       | Day 35 — clean it, then ask it questions: dropna/fillna/drop_duplicates, groupby + agg, merge, df.plot() |
 | pandas-projects | Day 37 — projects day: Play Store cleaning + ratings analysis, NBA 2017 season analysis |
 | ml-1           | Day 39 — ML starts: train/test split, data leak, fit/predict/measure |
+| ml-2           | Day 41 — linear regression: least squares learns a weight per feature |
 
 Every script runs as-is: `python3 <script>.py`
