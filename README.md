@@ -1,7 +1,7 @@
 # 🐍 Python — Learning in Public
 
 Documenting my Python → AI engineer journey on LinkedIn, one post every 2 days.
-73 runnable scripts and counting — each one only uses concepts the series has
+76 runnable scripts and counting — each one only uses concepts the series has
 covered so far, so every script is code I could plausibly write myself.
 
 📝 The series: https://www.linkedin.com/in/krishagarwal-ai/
@@ -40,5 +40,6 @@ Each folder holds the runnable mini-projects from one post in the series:
 | ml-1           | Day 39 — ML starts: train/test split, data leak, fit/predict/measure |
 | ml-2           | Day 41 — linear regression: least squares learns a weight per feature |
 | ml-3           | Day 43 — classification: logistic regression, confusion matrix, the accuracy trap |
+| ml-4           | Day 45 — overfitting: the train/test gap, more data and fewer features fix it |
 
 Every script runs as-is: `python3 <script>.py`
