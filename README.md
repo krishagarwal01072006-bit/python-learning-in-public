@@ -41,5 +41,6 @@ Each folder holds the runnable mini-projects from one post in the series:
 | ml-2           | Day 41 — linear regression: least squares learns a weight per feature |
 | ml-3           | Day 43 — classification: logistic regression, confusion matrix, the accuracy trap |
 | ml-4           | Day 45 — overfitting: the train/test gap, more data and fewer features fix it |
+| ml-5           | Day 47 — clustering: k-means by hand in numpy, NBA player archetypes |
 
 Every script runs as-is: `python3 <script>.py`
