@@ -42,5 +42,7 @@ Each folder holds the runnable mini-projects from one post in the series:
 | ml-3           | Day 43 — classification: logistic regression, confusion matrix, the accuracy trap |
 | ml-4           | Day 45 — overfitting: the train/test gap, more data and fewer features fix it |
 | ml-5           | Day 47 — clustering: k-means by hand in numpy, NBA player archetypes |
+| ml-6           | Day 49 — cross-validation: 5-fold CV, model showdown, hand-written decision tree |
+| ml-7           | Day 51 — CAPSTONE: Delhi AQI Predictor, softmax logistic regression by hand |
 
 Every script runs as-is: `python3 <script>.py`
